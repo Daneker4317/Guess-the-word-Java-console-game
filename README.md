@@ -1,9 +1,13 @@
+# Guess-the-word-Java-console-game
+
 Firstly you have to create two txt.files.
 The first file will store all the words and the second will store the already played words so that the words do not repeat.
 Please don't forget to change the file path to the [Game] class.
-Example:
 ![Screenshot (25)](https://user-images.githubusercontent.com/113981956/219843921-31578066-7d1a-4996-bf03-169c2110714f.png)
-# Guess-the-word-Java-console-game
+# Example:
+![photo_2023-02-18_12-05-07](https://user-images.githubusercontent.com/113981956/219844152-e028d9da-132e-4b43-b538-846242ff0a08.jpg)
+
+
 
 1 level
 Read the dictionary file and choose a random word.
